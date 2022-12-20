@@ -1,11 +1,11 @@
-Title:
+<h3> Title:</h3>
 ## Blog Posting Portal.
 
 <h3>Team:</h3>
 
 Content author , content reviewer, content reader.
 
-Objective(Purpose):
+<h3>Objective(Purpose):</h3>
 
 The blog posting system for blog web application is intended to provide educational courses
 to various users such as content reader through a website. Content author can also include
@@ -13,7 +13,7 @@ a blog section to gain information about courses that are relevant to their resp
 will enhance online collaboration, facilitate peer-based feedback, keep online learners up-to-date,
 foster a supportive learning community and improve creative thinking. 
 
-Scope:
+<h3>Scope</h3>:
 
 This website allows content author to post blogs about course-related content.
 Content author will be able to update and delete the content.
@@ -21,7 +21,7 @@ Content reader will be able to like and give ratings to the posts.
 Content author can add the blog in a section called thread after authenticated by the blogger.
 
 
-Definitions:
+<h3>Definitions:</h3>
 
 Content author - register trainer or employee.
 Content reviewer- supervisor.
@@ -31,7 +31,7 @@ Content reader- all user that are the part of company.
 Dashboard:
 
 
-Functional Requirements:
+<h3>Functional Requirements:</h3>
 
 Any content reader will be able to view the blogs. 
 
