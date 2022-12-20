@@ -1,6 +1,5 @@
 #Title:
-
- Blog Posting Portal.
+## Blog Posting Portal.
 
 Team:
 
@@ -17,11 +16,8 @@ foster a supportive learning community and improve creative thinking.
 Scope:
 
 This website allows content author to post blogs about course-related content.
-
 Content author will be able to update and delete the content.
-
 Content reader will be able to like and give ratings to the posts.
-
 Content author can add the blog in a section called thread after authenticated by the blogger.
 
 
