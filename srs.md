@@ -44,7 +44,7 @@ If Content reviewer has approved the blog then it will get posted on portal and 
 
 <h3>Non Functional Requirement :</h3>
 
-+B Security
+<h4>Security</h4>
 
 Registered content author will allowed to post the blog.
 Each Content author will be to access system through authentication process.
@@ -56,18 +56,18 @@ channel between Servers ( Web Servers, App Servers, databse Server) Sensitive da
 be always encrypted across communcation. User proper firewall to protect servers 
 from out side fishing, velnerable attacks.
 
-Reliability:
+<h4>Reliability</h4>
 
 The system will backup blog data on regular basis and recover
 in short time duration to keep system operational Continous updates are matained,
 continous Adminstration is done to keep system operational. During peak hours system
 will maintain same user experaince by managing load balacning .
 
-Availability:
+<h4>Availability</h4>
 
 uptime: 24* 7 available 99.999%
 
-Maintainability:
+**Maintainability**
 
 A Commercial database software will be used to maintain System data Persistence.
 A readymade Web Server will be installed to host online shopping portal (Web Site)
@@ -97,7 +97,7 @@ Scalability:
 
 System will be able to provide consistent user exeprience to Content author as well as Content reader irrespective of load.
 
-Safety:
+<h4>Safety</h4>
 
 Blog portal will be secure from malicious attack, fishing.Blog portal functionalilites are protected from outside 
 with prper firewall configuration. Blog portal will be always kept updated with latest anti virus software.
