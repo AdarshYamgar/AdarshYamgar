@@ -44,7 +44,7 @@ If Content reviewer has approved the blog then it will get posted on portal and 
 
 <h3>Non Functional Requirement :</h3>
 
-Security
++B Security
 
 Registered content author will allowed to post the blog.
 Each Content author will be to access system through authentication process.
