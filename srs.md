@@ -1,5 +1,5 @@
 <h2> Title:</h2>
-## Blog Posting Portal.
+ Blog Posting Portal.
 
 <h3>Team:</h3>
 
@@ -27,9 +27,7 @@ Content author - register trainer or employee.
 Content reviewer- supervisor.
 Content reader- all user that are the part of company.
 
-
 Dashboard:
-
 
 <h3>Functional Requirements:</h3>
 
@@ -46,7 +44,7 @@ If Content reviewer has approved the blog then it will get posted on portal and 
 
 <h3>Non Functional Requirement :</h3>
 
-##Security
+Security
 
 Registered content author will allowed to post the blog.
 Each Content author will be to access system through authentication process.
@@ -58,18 +56,18 @@ channel between Servers ( Web Servers, App Servers, databse Server) Sensitive da
 be always encrypted across communcation. User proper firewall to protect servers 
 from out side fishing, velnerable attacks.
 
-##Reliability:
+Reliability:
 
 The system will backup blog data on regular basis and recover
 in short time duration to keep system operational Continous updates are matained,
 continous Adminstration is done to keep system operational. During peak hours system
 will maintain same user experaince by managing load balacning .
 
-##Availability:
+Availability:
 
 uptime: 24* 7 available 99.999%
 
-##Maintainability:
+Maintainability:
 
 A Commercial database software will be used to maintain System data Persistence.
 A readymade Web Server will be installed to host online shopping portal (Web Site)
@@ -77,29 +75,29 @@ to management server capabilities. IT operations team will easily monitor and
 configure System using Adminstrative tools provided by Servers. Separate enviornment
 will be maintained for system for isolation in production, testing, and development.
 
-##Portablility:
+Portablility:
 
 PDA: Portable Device Application System will provide portable User Interface
 ( HTML, CSS, JS) through users will be able to access online blog portal.
 
-##Accessibility:
+Accessibility:
 
 only registered Content-author will be able to post the blog after authentication.
 Content reviewer  can reject or approve the blog contents requests.
 Content reviewer  will be able to see their blog stats.
 
-##Durability:
+Durability:
 
 System will retain Content author blog  even though customer loose internet connection and join again.
 System will maintain blog Contents.Content author will be able to add blog from draft
 and add to bloging portal whenever needed. System will implement backup and recovery for retaining 
 Contents of Content author blog.
 
-##Scalability:
+Scalability:
 
 System will be able to provide consistent user exeprience to Content author as well as Content reader irrespective of load.
 
-##Safety:
+Safety:
 
 Blog portal will be secure from malicious attack, fishing.Blog portal functionalilites are protected from outside 
 with prper firewall configuration. Blog portal will be always kept updated with latest anti virus software.
