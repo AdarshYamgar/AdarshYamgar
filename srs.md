@@ -1,7 +1,7 @@
-#Title:
+Title:
 ## Blog Posting Portal.
 
-Team:
+<h3>Team:</h3>
 
 Content author , content reviewer, content reader.
 
